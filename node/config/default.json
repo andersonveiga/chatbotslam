@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "9de747ce47b6858de02fb02f08518c21",
+    "pageAccessToken": "EAAQshEzZCOXoBAEs1dKSykabH0PsmzSCyRl8d0sM9XTvyQRgXIxhiaLwL82XjgAf2HHrYgnhz1LCPvGbjkCDtFlghzqZCZCtLQZCLz6oWCPGD2PUpnyqiT8Rmq8Djivok1JUHqmTJXxp68nwOYerJ6uG8EynjSbD29R7m2HNuwZDZD",
+    "validationToken": "codeslambot_verify_token",
+    "serverURL": "https://dc2f635f.ngrok.io/"
 }
